@@ -1,5 +1,5 @@
 # First-Projects-Python
- This is my first small projects with learned so far.
+ This is my first small project.
 
 1.Coffee Machine Project.
 
